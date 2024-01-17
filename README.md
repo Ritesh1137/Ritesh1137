@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/ritesh1137/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
     </a>    
-    <a href=""mailto: rpanditi1137@gmail.com">
+    <a href=""mailto:rpanditi1137@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     

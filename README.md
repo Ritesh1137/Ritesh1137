@@ -49,6 +49,8 @@ What excites me most now is the boundless potential of machine learning, cloud a
 
 My expertise spans Python, deep learning, and full-stack development, complemented by practical knowledge in SQL, HTML, CSS, JavaScript, and PHP. I have effectively applied these skills in AWS and Linux environments. My experience also includes a project involving Hadoop and PySpark, providing me with a foundational understanding of big data processing. Additionally, I am actively engaged in learning new technologies and frameworks, constantly updating my skill set to stay at the forefront of technological advancements and gain practical, hands-on experience.
 
+-------
+
 #### :hammer_and_wrench: Languages and Tools :
 
 ##### 🤖 Data & ML : 

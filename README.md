@@ -51,7 +51,6 @@ I'm excited by the potential of AI, machine learning, and cloud technologies, an
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=TensorFlow&logoColor=white&labelColor=FF6F00)
 ![Pytorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=PyTorch&logoColor=red&labelColor=000000)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=Keras&logoColor=white&labelColor=D00000)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=Tableau&labelColor=white)
 ![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=PowerBI&logoColor=yellow&labelColor=white)

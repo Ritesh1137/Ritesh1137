@@ -30,7 +30,7 @@
 
 > "In God we trust. All others must bring data."
 
-Currently, I'm an AI Engineer deepening my knowledge in LLM frameworks like LangChain, LlamaIndex, vector databases, RAG, evaluating RAG based applications using various frameworks and developing Python backends using FastAPI for Next JS projects. I'm also exploring Azure AI services like Azure OpenAI, Search, Document Intelligence, and Copilot.
+Currently, I'm an AI Engineer deepening my knowledge in LLM frameworks like LangChain, LlamaIndex, vector databases, RAG, evaluating RAG based applications using various frameworks and developing LLM backend infrastructure using FastAPI for Next JS projects. I'm also exploring Azure AI services like Azure OpenAI, Search, Document Intelligence, and Copilot.
 
 My journey in AI and data began with a Master's in Applied Artificial Intelligence from Stevens Institute of Technology. I'm passionate about turning complex data into practical solutions that positively impact society. 
 

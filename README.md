@@ -28,9 +28,6 @@
 
 --------
 
-
-### 👨‍💻 About Me :
-
 > "In God we trust. All others must bring data."
 
 Currently, I'm an AI Engineer deepening my knowledge in LLM frameworks like LangChain, LlamaIndex, vector databases, RAG, evaluating RAG based applications using various frameworks and developing Python backends using FastAPI for Next JS projects. I'm also exploring Azure AI services like Azure OpenAI, Search, Document Intelligence, and Copilot.

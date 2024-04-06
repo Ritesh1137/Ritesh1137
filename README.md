@@ -31,23 +31,14 @@
 
 ### 👨‍💻 About Me :
 
-> "In God we trust. All others must bring data." | "The world is one big data problem." | “AI is the new electricity”
-<!---
-These quote encapsulates the reason and passion that has driven my journey to dive deep into the world of AI and data. With a background in technology and witnessing the rapid progress of computing capabilities, I strongly believe in the immense transformative potential that data-driven applications can have in our world.
+> "In God we trust. All others must bring data." 
+Currently, I'm an AI Engineer deepening my knowledge in LLM frameworks like LangChain, LlamaIndex, vector databases, RAG, evaluating RAG based applications using various frameworks and developing Python backends using FastAPI for Next JS projects. I'm also exploring Azure AI services like Azure OpenAI, Search, Document Intelligence, and Copilot.
 
-My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives.
+My journey in AI and data began with a Master's in Applied Artificial Intelligence from Stevens Institute of Technology. I'm passionate about turning complex data into practical solutions that positively impact society. 
 
-I am a tech enthusiast with a Master’s in Applied Artificial Intelligence and a rich background in data engineering, machine learning, and full-stack development. My journey in technology has been marked by a relentless pursuit of understanding and leveraging cutting-edge technologies to create impactful solutions. From developing multi-label image classifiers using advanced deep learning techniques to implementing robust full-stack features in a cloud-based environment, I have always been driven by the challenges and opportunities presented by diverse tech domains. My experience as a Class Assistant and Graduate Research Assistant has not only honed my technical skills but also my ability to communicate complex concepts effectively and collaborate in dynamic settings. I am particularly fascinated by the potential of cloud and big data technologies. As I continue to explore these areas, I am eager to apply my foundational knowledge and experience in a role that allows me to contribute to, and learn from, innovative projects in cloud computing and data-driven technologies.
---->
-Inspired by these profound quotes, my journey in the realms of AI and data has been a quest to harness their transformative power. With a Master's in Applied Artificial Intelligence from Stevens Institute of Technology and a background in Electronics and Communications Engineering, I've been at the forefront of exploring how data and AI can reshape our world.
+Teaching and research roles at Stevens Institute for Artificial Intelligence have refined my technical and communication skills, allowing me to simplify complex concepts for diverse teams.
 
-My passion lies in bridging the gap between complex data and practical applications that positively impact people. As a tech enthusiast, my academic and professional journey encompasses data engineering, machine learning, and full-stack development. From developing intricate deep learning models for image classification to crafting full-stack features in a cloud-based environment, each step has been a leap towards mastering the art of turning data into actionable insights.
-
-My roles as a Class Assistant in Deep Learning and a Graduate Research Assistant at Stevens Institute for Artificial Intelligence have sharpened my technical prowess and communication skills. These experiences have enabled me to effectively demystify complex technical concepts and collaborate productively in diverse teams.
-
-What excites me most now is the boundless potential of machine learning, cloud and big data technologies. While my foundational knowledge in these areas is solid, I am actively expanding my expertise within data-driven technologies. I eagerly anticipate contributing to and growing through innovative projects in these dynamic fields, continuing my journey of turning data into powerful, life-enhancing tools.
-
-My expertise spans Python, deep learning, and full-stack development, complemented by practical knowledge in SQL, HTML, CSS, JavaScript, and PHP. I have effectively applied these skills in AWS and Linux environments. My experience also includes a project involving Hadoop and PySpark, providing me with a foundational understanding of big data processing. Additionally, I am actively engaged in learning new technologies and frameworks, constantly updating my skill set to stay at the forefront of technological advancements and gain practical, hands-on experience.
+I'm excited by the potential of AI, machine learning, and cloud technologies, and I'm actively broadening my knowledge in these areas. My technical expertise includes Python, deep learning, full-stack development, with practical skills in SQL, HTML, CSS, JavaScript, and PHP. I've worked with AWS, Azure, Linux, Hadoop, and PySpark, and I'm committed to staying current with technology trends and practical applications.
 
 -------
 
